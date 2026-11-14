@@ -4,15 +4,9 @@ Sistema de cadastro e gerenciamento de alunos desenvolvido em **Java**, utilizan
 
 Projeto desenvolvido como atividade avaliativa da **P2 – Paradigmas de Programação**, com o objetivo de refatorar uma aplicação inicialmente procedural para o paradigma orientado a objetos.
 
-## 👨‍💻 Autor
+## Aluno
 
 **David Lucas Sá Cordeiro**
-
-## 📋 Sobre o Projeto
-
-O sistema funciona por meio de um menu interativo no terminal, permitindo cadastrar alunos, consultar suas informações e visualizar estatísticas gerais da turma.
-
-Cada aluno possui um número de chamada, nome e nota. Com base na nota informada, o sistema determina automaticamente sua situação acadêmica.
 
 ## ⚙️ Funcionalidades
 
@@ -26,14 +20,14 @@ Cada aluno possui um número de chamada, nome e nota. Com base na nota informada
 - Identificar a menor nota.
 - Tratar entradas inválidas por meio de exceções.
 
-### 📊 Critério de Aprovação
+### Critério de Aprovação
 
 | Nota | Situação |
 |---|---|
 | Maior ou igual a 6,0 | ✅ Aprovado |
 | Menor que 6,0 | ❌ Reprovado |
 
-## 🏗️ Estrutura do Projeto
+## Estrutura do Projeto
 
 O projeto foi organizado em quatro classes, cada uma com uma responsabilidade específica:
 
@@ -44,7 +38,7 @@ O projeto foi organizado em quatro classes, cada uma com uma responsabilidade es
 | `Sistema` | Implementa o menu interativo e realiza a comunicação com o usuário. |
 | `Main` | Responsável pelo ponto de entrada e inicialização do programa. |
 
-## 🧠 Conceitos de POO Aplicados
+##  Conceitos de POO Aplicados
 
 O desenvolvimento do projeto utiliza os principais conceitos da Programação Orientada a Objetos:
 
@@ -55,20 +49,7 @@ O desenvolvimento do projeto utiliza os principais conceitos da Programação Or
 - **Coleções:** utilização de listas para armazenar e gerenciar os alunos cadastrados.
 - **Imutabilidade na consulta:** a lista de alunos é disponibilizada como uma lista não modificável, protegendo a estrutura interna da turma.
 
-## 🛠️ Tecnologias Utilizadas
-
-- **Java 14+**
-- Programação Orientada a Objetos (POO)
-- Collections Framework
-- Tratamento de Exceções
-- Terminal / Console
-
 ## 🚀 Como Executar
-
-### Pré-requisitos
-
-- Ter o **Java JDK 14 ou superior** instalado.
-- Ter o Git instalado (opcional, para clonar o repositório).
 
 ### 1. Clone o repositório
 
@@ -93,11 +74,3 @@ javac *.java
 ```bash
 java Main
 ```
-
-## 📚 Objetivo Acadêmico
-
-Este projeto tem como finalidade demonstrar a aplicação prática dos conceitos de Programação Orientada a Objetos, evidenciando a organização do código, a separação de responsabilidades, o encapsulamento dos dados e a reutilização de estruturas.
-
----
-
-⭐ **Projeto acadêmico desenvolvido para a disciplina de Paradigmas de Programação – P2.**
