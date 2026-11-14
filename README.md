@@ -24,8 +24,8 @@ Projeto desenvolvido como atividade avaliativa da **P2 – Paradigmas de Program
 
 | Nota | Situação |
 |---|---|
-| Maior ou igual a 6,0 | ✅ Aprovado |
-| Menor que 6,0 | ❌ Reprovado |
+| Maior ou igual a 6,0 | Aprovado |
+| Menor que 6,0 | Reprovado |
 
 ## Estrutura do Projeto
 
@@ -49,7 +49,7 @@ O desenvolvimento do projeto utiliza os principais conceitos da Programação Or
 - **Coleções:** utilização de listas para armazenar e gerenciar os alunos cadastrados.
 - **Imutabilidade na consulta:** a lista de alunos é disponibilizada como uma lista não modificável, protegendo a estrutura interna da turma.
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### 1. Clone o repositório
 
