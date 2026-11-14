@@ -1,0 +1,1 @@
+# av2_PARADIGMAS_david-Lucas
