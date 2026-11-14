@@ -1,4 +1,4 @@
-# 🎓 Sistema de Cadastro de Alunos
+# Sistema de Cadastro de Alunos
 
 Sistema de cadastro e gerenciamento de alunos desenvolvido em **Java**, utilizando os princípios da **Programação Orientada a Objetos (POO)**.
 
@@ -8,7 +8,7 @@ Projeto desenvolvido como atividade avaliativa da **P2 – Paradigmas de Program
 
 **David Lucas Sá Cordeiro**
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 - Cadastrar alunos com número de chamada, nome e nota.
 - Impedir o cadastro de alunos com números de chamada repetidos.
