@@ -6,7 +6,7 @@ Projeto desenvolvido como atividade avaliativa da **P2 – Paradigmas de Program
 
 ## Aluno
 
-**David Lucas Sá Cordeiro**
+**David Lucas Sá Cordeiro**/
 **Dorivan Cunha de Morais**
 
 ##  Funcionalidades
